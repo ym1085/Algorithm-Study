@@ -35,9 +35,9 @@
 
 ### IF문
 
-| 사이트 | 번호   | 문제                                             | 문제 풀이                                              |
-|-----|------|------------------------------------------------|----------------------------------------------------|
-| BOJ | 1330 | [두수 비교하기](https://www.acmicpc.net/problem/1330) | [답안](src/com/boj/algorithm/ch02/CompareNumber.java) |
-| BOJ | 9498 | [시험 성적](https://www.acmicpc.net/problem/9498)  | [답안](./src/com/boj/algorithm/ch02/TestScore.java)  |
-| BOJ | 2753 | [윤년](https://www.acmicpc.net/problem/2753)     | [답안](./src/com/boj/algorithm/ch02/LeapYear.java)   |
-
+| 사이트 | 번호     | 문제                                              | 문제 풀이                                              |
+|-----|--------|-------------------------------------------------|----------------------------------------------------|
+| BOJ | 1330   | [두수 비교하기](https://www.acmicpc.net/problem/1330) | [답안](src/com/boj/algorithm/ch02/CompareNumber.java) |
+| BOJ | 9498   | [시험 성적](https://www.acmicpc.net/problem/9498)   | [답안](./src/com/boj/algorithm/ch02/TestScore.java)  |
+| BOJ | 2753   | [윤년](https://www.acmicpc.net/problem/2753)      | [답안](./src/com/boj/algorithm/ch02/LeapYear.java)   |
+| BOJ | 14681  | [사분면구하기](https://www.acmicpc.net/problem/14681) | [답안](./src/com/boj/algorithm/ch02/Quadrant.java)   |

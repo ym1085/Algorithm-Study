@@ -24,7 +24,7 @@ import java.util.Scanner;
  * [출력]
  * 첫째 줄에 윤년이면 1, 아니면 0을 출력한다.
  */
-public class LeapYear {
+public class LeapYear_2753 {
 
     // 해당 문제는 풀어보고, 다른 사람들의 예제를 좀 찾아보자
     public static void main(String[] args) {

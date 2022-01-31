@@ -19,7 +19,7 @@ import java.util.Scanner;
  * [출력]
  * 첫째 줄에 A×B를 출력한다.
  */
-public class MultiPly {
+public class MultiPly_10998 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

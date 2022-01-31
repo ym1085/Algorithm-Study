@@ -20,7 +20,7 @@ import java.util.Scanner;
  * [출력]
  * 점 (x, y)의 사분면 번호(1, 2, 3, 4 중 하나)를 출력한다.
  */
-public class Quadrant {
+public class Quadrant_14681 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

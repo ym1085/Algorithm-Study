@@ -30,7 +30,7 @@ import java.util.Scanner;
  * [출력]
  * 첫째 줄에 상근이가 창영이의 방법을 사용할 때, 설정해야 하는 알람 시간을 출력한다. (입력과 같은 형태로 출력하면 된다.)
  */
-public class AlarmClock {
+public class AlarmClock_2884 {
 
     /**
         [오답 풀이]

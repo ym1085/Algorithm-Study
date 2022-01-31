@@ -15,7 +15,7 @@ import java.util.Scanner;
  *
  * 첫째 줄에 A + B를 출력한다
  */
-public class Plus {
+public class Plus_1000 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

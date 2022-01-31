@@ -17,7 +17,7 @@ package com.boj.algorithm.ch01_io;
  * |"^"`    |
  * ||_/=\\__|
  */
-public class PrintDog {
+public class PrintDog_10172 {
 
     public static void main(String[] args) {
         System.out.println("|\\_/|");

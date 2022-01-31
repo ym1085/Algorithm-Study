@@ -21,7 +21,7 @@ import java.util.Scanner;
  * A가 B보다 작은 경우에는 '<'를 출력한다.
  * A와 B가 같은 경우에는 '=='를 출력한다.
  */
-public class CompareNumber {
+public class CompareNumber_1330 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

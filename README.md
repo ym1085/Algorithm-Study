@@ -19,26 +19,34 @@
 
 ### 입출력과 사칙연산
 
-| 사이트 | 번호  | 문제                                                     | 문제 풀이                                                   | 상태 |
-|-----|-----|--------------------------------------------------------|---------------------------------------------------------|----|
-| BOJ | 2557 | [HelloWorld](https://www.acmicpc.net/problem/2557)     | [답안](./src/com/boj/algorithm/ch01_io/HelloWorld.java)      | ✅  |
-| BOJ | 10718 | [We love kriii](https://www.acmicpc.net/problem/10718) | [답안](./src/com/boj/algorithm/ch01_io/WeLoveArmy.java)      | ✅  |
-| BOJ | 10171 | [고양이](https://www.acmicpc.net/problem/10171)           | [답안](./src/com/boj/algorithm/ch01_io/PrintCat.java)        | ✅  |
-| BOJ | 10172 | [개](https://www.acmicpc.net/problem/10172)             | [답안](./src/com/boj/algorithm/ch01_io/PrintDog.java)        | ✅  |
-| BOJ | 1000 | [A + B](https://www.acmicpc.net/problem/1000)          | [답안](./src/com/boj/algorithm/ch01_io/Plus.java)            | ✅  |
-| BOJ | 1001 | [A - B](https://www.acmicpc.net/problem/1001)          | [답안](./src/com/boj/algorithm/ch01_io/Minus.java)           | ✅  |
-| BOJ | 10998 | [A * B](https://www.acmicpc.net/problem/10998)         | [답안](./src/com/boj/algorithm/ch01_io/MultiPly.java)        | ✅  |
-| BOJ | 1008 | [A / B](https://www.acmicpc.net/problem/1008)          | [답안](./src/com/boj/algorithm/ch01_io/Divide.java)          | ✅  |
-| BOJ | 10869 | [사칙연산](https://www.acmicpc.net/problem/10869)          | [답안](./src/com/boj/algorithm/ch01_io/Calculation.java)     | ✅  |
-| BOJ | 10430 | [나머지](https://www.acmicpc.net/problem/10430)           | [답안](./src/com/boj/algorithm/ch01_io/CalRemain.java)       | ✅  |
-| BOJ | 2588 | [곱셈](https://www.acmicpc.net/problem/2588)             | [답안](./src/com/boj/algorithm/ch01_io/Multiplication.java)  | ✅  |
+| 사이트 | 번호  | 문제                                                     | 문제 풀이                                                        | 상태 |
+|-----|-----|--------------------------------------------------------|--------------------------------------------------------------|----|
+| BOJ | 2557 | [HelloWorld](https://www.acmicpc.net/problem/2557)     | [답안](./src/com/boj/algorithm/ch01_io/HelloWorld_2557.java)   | ✅  |
+| BOJ | 10718 | [We love kriii](https://www.acmicpc.net/problem/10718) | [답안](./src/com/boj/algorithm/ch01_io/WeLoveArmy_10718.java)  | ✅  |
+| BOJ | 10171 | [고양이](https://www.acmicpc.net/problem/10171)           | [답안](./src/com/boj/algorithm/ch01_io/PrintCat_10171.java)    | ✅  |
+| BOJ | 10172 | [개](https://www.acmicpc.net/problem/10172)             | [답안](./src/com/boj/algorithm/ch01_io/PrintDog_10172.java)    | ✅  |
+| BOJ | 1000 | [A + B](https://www.acmicpc.net/problem/1000)          | [답안](./src/com/boj/algorithm/ch01_io/Plus_1000.java)         | ✅  |
+| BOJ | 1001 | [A - B](https://www.acmicpc.net/problem/1001)          | [답안](./src/com/boj/algorithm/ch01_io/Minus_1001.java)        | ✅  |
+| BOJ | 10998 | [A * B](https://www.acmicpc.net/problem/10998)         | [답안](./src/com/boj/algorithm/ch01_io/MultiPly_10998.java)    | ✅  |
+| BOJ | 1008 | [A / B](https://www.acmicpc.net/problem/1008)          | [답안](./src/com/boj/algorithm/ch01_io/Divide_1008.java)       | ✅  |
+| BOJ | 10869 | [사칙연산](https://www.acmicpc.net/problem/10869)          | [답안](./src/com/boj/algorithm/ch01_io/Calculation_10869.java) | ✅  |
+| BOJ | 10430 | [나머지](https://www.acmicpc.net/problem/10430)           | [답안](./src/com/boj/algorithm/ch01_io/CalRemain_10430.java)   | ✅  |
+| BOJ | 2588 | [곱셈](https://www.acmicpc.net/problem/2588)             | [답안](./src/com/boj/algorithm/ch01_io/Multiplication_2588.java)   | ✅  |
 
-### IF문
+### if문
 
-| 사이트 | 번호     | 문제                                             | 문제 풀이                                              | 상태 |
-|-----|--------|------------------------------------------------|----------------------------------------------------|----|
-| BOJ | 1330   | [두수 비교하기](https://www.acmicpc.net/problem/1330) | [답안](src/com/boj/algorithm/ch02_if/CompareNumber.java) | ✅  |
-| BOJ | 9498   | [시험 성적](https://www.acmicpc.net/problem/9498)  | [답안](./src/com/boj/algorithm/ch02_if/TestScore.java)  |  ✅ | 
-| BOJ | 2753   | [윤년](https://www.acmicpc.net/problem/2753)     | [답안](./src/com/boj/algorithm/ch02_if/LeapYear.java)   |  ✅ |
-| BOJ | 14681  | [사분면구하기](https://www.acmicpc.net/problem/14681) | [답안](./src/com/boj/algorithm/ch02_if/Quadrant.java)   |  ✅ |
-| BOJ | 2884  | [알람 시계](https://www.acmicpc.net/problem/2884)  | [답안](./src/com/boj/algorithm/ch02_if/AlarmClock.java) |  ✅ |
+| 사이트 | 번호     | 문제                                             | 문제 풀이                                                       | 상태 |
+|-----|--------|------------------------------------------------|-------------------------------------------------------------|----|
+| BOJ | 1330   | [두수 비교하기](https://www.acmicpc.net/problem/1330) | [답안](src/com/boj/algorithm/ch02_if/CompareNumber_1330.java) | ✅  |
+| BOJ | 9498   | [시험 성적](https://www.acmicpc.net/problem/9498)  | [답안](./src/com/boj/algorithm/ch02_if/TestScore_9498.java)   |  ✅ | 
+| BOJ | 2753   | [윤년](https://www.acmicpc.net/problem/2753)     | [답안](./src/com/boj/algorithm/ch02_if/LeapYear_2753.java)    |  ✅ |
+| BOJ | 14681  | [사분면구하기](https://www.acmicpc.net/problem/14681) | [답안](./src/com/boj/algorithm/ch02_if/Quadrant_14681.java)   |  ✅ |
+| BOJ | 2884  | [알람 시계](https://www.acmicpc.net/problem/2884)  | [답안](./src/com/boj/algorithm/ch02_if/AlarmClock_2884.java)      |  ✅ |
+
+### for문
+
+| 사이트 | 번호   | 문제                                          | 문제 풀이                                                          | 상태 |
+|-----|------|---------------------------------------------|----------------------------------------------------------------|----|
+| BOJ | 2739 | [구구단](https://www.acmicpc.net/problem/2739) | [답안](src/com/boj/algorithm/ch03_for/MultiplicationTable_2739.java) | ✅  |
+
+

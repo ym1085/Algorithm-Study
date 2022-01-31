@@ -24,7 +24,7 @@ import java.util.Scanner;
  * [출력]
  * 시험 성적을 출력한다.
  */
-public class TestScore {
+public class TestScore_9498 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

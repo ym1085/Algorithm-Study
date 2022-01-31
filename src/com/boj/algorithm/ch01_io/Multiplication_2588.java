@@ -30,7 +30,7 @@ import java.util.Scanner;
  * [출력]
  * 첫째 줄부터 넷째 줄까지 차례대로 (3), (4), (5), (6)에 들어갈 값을 출력한다.
  */
-public class Multiplication {
+public class Multiplication_2588 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

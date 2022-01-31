@@ -16,7 +16,7 @@ package com.boj.algorithm.ch01_io;
  * (  /  )
  *  \(__)|
  */
-public class PrintCat {
+public class PrintCat_10171 {
 
     public static void main(String[] args) {
         System.out.println("\\    /\\");

@@ -1,6 +1,4 @@
-package com.boj.algorithm.ch01;
-
-import org.jcp.xml.dsig.internal.SignerOutputStream;
+package com.boj.algorithm.ch01_io;
 
 import java.util.Scanner;
 

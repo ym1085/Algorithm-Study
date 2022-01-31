@@ -1,4 +1,4 @@
-package com.boj.algorithm.ch02;
+package com.boj.algorithm.ch02_if;
 
 import java.util.Scanner;
 

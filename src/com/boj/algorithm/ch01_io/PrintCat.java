@@ -1,4 +1,4 @@
-package com.boj.algorithm.ch01;
+package com.boj.algorithm.ch01_io;
 
 /**
  * @author : ymkim

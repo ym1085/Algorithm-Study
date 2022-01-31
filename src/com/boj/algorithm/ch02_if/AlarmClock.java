@@ -1,8 +1,6 @@
-package com.boj.algorithm.ch02;
+package com.boj.algorithm.ch02_if;
 
-import java.io.BufferedReader;
 import java.io.IOException;
-import java.io.InputStreamReader;
 import java.util.Scanner;
 
 /**

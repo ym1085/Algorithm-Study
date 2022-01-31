@@ -49,4 +49,5 @@
 |-----|-------|---------------------------------------------------|--------------------------------------------------------------------|----|
 | BOJ | 2739  | [구구단](https://www.acmicpc.net/problem/2739)       | [답안](src/com/boj/algorithm/ch03_for/MultiplicationTable_2739.java) | ✅  |
 | BOJ | 10950 | [A + B - 3](https://www.acmicpc.net/problem/10950) | [답안](src/com/boj/algorithm/ch03_for/TestCase_10950.java)           | ✅  |
-| BOJ | 8393  | [합](https://www.acmicpc.net/problem/8393)        | [답안](src/com/boj/algorithm/ch03_for/Sum_8393.java)                     | ✅  |
+| BOJ | 8393  | [합](https://www.acmicpc.net/problem/8393)        | [답안](src/com/boj/algorithm/ch03_for/Sum_8393.java)                 | ✅  |
+| BOJ | 15552  | [합](https://www.acmicpc.net/problem/15552)        | [답안](src/com/boj/algorithm/ch03_for/QuickSum_15552.java)            | ✅  |

@@ -39,7 +39,7 @@ public class PlusCycle_1110 {
     public static void main(String[] args) throws IOException {
         Scanner input = new Scanner(System.in);
         int num = input.nextInt();
-        int tmp = num; // 임시로 저장: 26으로 테스트
+        int tmp = num; // 임시 저장: 26으로 테스트
         System.out.println("====================================");
         System.out.println(">>>> STEP: 01 tmp ==> " + tmp);
         System.out.println("====================================\n");
@@ -47,8 +47,8 @@ public class PlusCycle_1110 {
         int cnt = 0;
         while(true) {
             // 숫자 a, b를 더한다
-            // int addNum = tmp % 10 + tmp / 10; // 오른쪽 + 왼쪽 정수 (순서 상관 없음)
-            int addNum = (tmp / 10) + (tmp % 10); // 오른쪽 + 왼쪽 정수
+            // int addNum = tmp % 10 + tmp / 10; // 두 번째 + 첫 번째 정수 => ex) 26 --> 6, 2
+            int addNum = (tmp / 10) + (tmp % 10); // 첫 번째 + 두 번째 정수 => ex) 26 --> 2, 6
             System.out.println("====================================");
             System.out.println(">>>> STEP: 02 addNum ==> " + addNum);
             System.out.println("====================================\n");

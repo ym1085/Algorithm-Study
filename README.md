@@ -65,8 +65,8 @@
 
 ### ✅ While문
 
-| 사이트 | 번호    | 문제                                                 | 문제 풀이                                                            | 상태  |
-|-----|-------|----------------------------------------------------|------------------------------------------------------------------|-----|
+| 사이트 | 번호    | 문제                                                | 문제 풀이                                                            | 상태  |
+|-----|-------|---------------------------------------------------|------------------------------------------------------------------|-----|
 | BOJ | 10952 | [A + B - 5](https://www.acmicpc.net/problem/10952) | [답안](src/com/boj/algorithm/ch04_while/TestCasePlusAB_10952.java) | ✅   |
 | BOJ | 10951 | [A + B - 4](https://www.acmicpc.net/problem/10951) | [답안](src/com/boj/algorithm/ch04_while/TestCasePlusAB_10951.java) | ✅   |
-| BOJ | 1110 | [A + B - 4](https://www.acmicpc.net/problem/1110) | [답안](src/com/boj/algorithm/ch04_while/PlusCycle_1110.java) | 🔥  |
+| BOJ | 1110 | [더하기 사이클](https://www.acmicpc.net/problem/1110)   | [답안](src/com/boj/algorithm/ch04_while/PlusCycle_1110.java) | 🔥  |

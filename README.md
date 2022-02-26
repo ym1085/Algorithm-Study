@@ -73,8 +73,9 @@
 
 ### ✅ Array
 
-| 사이트 | 번호   | 문제                                             | 문제 풀이                                                           | 상태 |
-|-----|------|------------------------------------------------|-----------------------------------------------------------------|---|
-| BOJ | 10818 | [최소, 최대](https://www.acmicpc.net/problem/10818) | [답안](src/com/boj/algorithm/ch05_array/MinAndMax_10818.java)     |  ✅ |
+| 사이트 | 번호   | 문제                                             | 문제 풀이                                                          | 상태 |
+|-----|------|------------------------------------------------|----------------------------------------------------------------|---|
+| BOJ | 10818 | [최소, 최대](https://www.acmicpc.net/problem/10818) | [답안](src/com/boj/algorithm/ch05_array/MinAndMax_10818.java)    |  ✅ |
 | BOJ | 10818 | [선택 정렬](https://www.acmicpc.net/problem/10818) | [답안](src/com/boj/algorithm/ch05_array/SelectionSort_10818.java) |  🔥 |
-| BOJ | 2562 | [최대값](https://www.acmicpc.net/problem/2562)   | [답안](src/com/boj/algorithm/ch05_array/Max_2562.java)                | ✅ |
+| BOJ | 2562 | [최대값](https://www.acmicpc.net/problem/2562)    | [답안](src/com/boj/algorithm/ch05_array/Max_2562.java)           | ✅ |
+| BOJ | 2577 | [숫자의 개수](https://www.acmicpc.net/problem/2577) | [답안](src/com/boj/algorithm/ch05_array/CountNum_2577.java)      | ✅ |

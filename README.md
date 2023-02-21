@@ -19,25 +19,26 @@
 
 > ✅ : **문제 풀이 완료.**  
 > ⚡ : **문제 풀이는 완료 되었으나, 재검토 필요.**  
-> 🔥 : **재검토 필요, 우선순위 상** 
+> 🔥 : **재검토 필요, 우선순위 상, 다시 한번 문제 풀이가 필요함** 
 
 ### ✅ 입출력과 사칙연산
 
-| 사이트 | 번호  | 문제                                                                 | 문제 풀이                                                          | 상태 |
-|-----|-----|--------------------------------------------------------------------|----------------------------------------------------------------|----|
-| BOJ | 2557 | [HelloWorld](https://www.acmicpc.net/problem/2557)                 | [답안](./src/com/boj/algorithm/ch01_io/HelloWorld_2557.java)     | ✅  |
-| BOJ | 10718 | [We love kriii](https://www.acmicpc.net/problem/10718)             | [답안](./src/com/boj/algorithm/ch01_io/WeLoveArmy_10718.java)    | ✅  |
-| BOJ | 10171 | [고양이](https://www.acmicpc.net/problem/10171)                       | [답안](./src/com/boj/algorithm/ch01_io/PrintCat_10171.java)      | ✅  |
-| BOJ | 10172 | [개](https://www.acmicpc.net/problem/10172)                         | [답안](./src/com/boj/algorithm/ch01_io/PrintDog_10172.java)      | ✅  |
-| BOJ | 1000 | [A + B](https://www.acmicpc.net/problem/1000)                      | [답안](./src/com/boj/algorithm/ch01_io/Plus_1000.java)           | ✅  |
-| BOJ | 1001 | [A - B](https://www.acmicpc.net/problem/1001)                      | [답안](./src/com/boj/algorithm/ch01_io/Minus_1001.java)          | ✅  |
-| BOJ | 10998 | [A * B](https://www.acmicpc.net/problem/10998)                     | [답안](./src/com/boj/algorithm/ch01_io/MultiPly_10998.java)      | ✅  |
-| BOJ | 1008 | [A / B](https://www.acmicpc.net/problem/1008)                      | [답안](./src/com/boj/algorithm/ch01_io/Divide_1008.java)         | ✅  |
-| BOJ | 10869 | [사칙연산](https://www.acmicpc.net/problem/10869)                      | [답안](./src/com/boj/algorithm/ch01_io/Calculation_10869.java)   | ✅  |
-| BOJ | 10430 | [나머지](https://www.acmicpc.net/problem/10430)                       | [답안](./src/com/boj/algorithm/ch01_io/CalRemain_10430.java)     | ✅  |
-| BOJ | 2588 | [곱셈](https://www.acmicpc.net/problem/2588)                         | [답안](./src/com/boj/algorithm/ch01_io/Multiplication_2588.java) | ✅  |
-| BOJ | 2588 | [??!](https://www.acmicpc.net/problem/10926)                       | [답안](./src/com/boj/algorithm/ch01_io/Joonas_10926.java)        | ✅  |
-| BOJ | 2588 | [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) | [답안](./src/com/boj/algorithm/ch01_io/Bulgi_18108.java)        | ✅  |
+| 사이트 | 번호    | 문제                                                                | 문제 풀이                                                         | 상태 |
+|-----|-------|-------------------------------------------------------------------|---------------------------------------------------------------|---|
+| BOJ | 2557  | [HelloWorld](https://www.acmicpc.net/problem/2557)                | [답안](./src/com/boj/algorithm/ch01_io/HelloWorld_2557.java)    | ✅ |
+| BOJ | 10718 | [We love kriii](https://www.acmicpc.net/problem/10718)            | [답안](./src/com/boj/algorithm/ch01_io/WeLoveArmy_10718.java)   | ✅ |
+| BOJ | 10171 | [고양이](https://www.acmicpc.net/problem/10171)                      | [답안](./src/com/boj/algorithm/ch01_io/PrintCat_10171.java)     | ✅ |
+| BOJ | 10172 | [개](https://www.acmicpc.net/problem/10172)                        | [답안](./src/com/boj/algorithm/ch01_io/PrintDog_10172.java)     | ✅ |
+| BOJ | 1000  | [A + B](https://www.acmicpc.net/problem/1000)                     | [답안](./src/com/boj/algorithm/ch01_io/Plus_1000.java)          | ✅ |
+| BOJ | 1001  | [A - B](https://www.acmicpc.net/problem/1001)                     | [답안](./src/com/boj/algorithm/ch01_io/Minus_1001.java)         | ✅ |
+| BOJ | 10998 | [A * B](https://www.acmicpc.net/problem/10998)                    | [답안](./src/com/boj/algorithm/ch01_io/MultiPly_10998.java)     | ✅ |
+| BOJ | 1008  | [A / B](https://www.acmicpc.net/problem/1008)                     | [답안](./src/com/boj/algorithm/ch01_io/Divide_1008.java)        | ✅ |
+| BOJ | 10869 | [사칙연산](https://www.acmicpc.net/problem/10869)                     | [답안](./src/com/boj/algorithm/ch01_io/Calculation_10869.java)  | ✅ |
+| BOJ | 10430 | [나머지](https://www.acmicpc.net/problem/10430)                      | [답안](./src/com/boj/algorithm/ch01_io/CalRemain_10430.java)    | ✅ |
+| BOJ | 2588  | [곱셈](https://www.acmicpc.net/problem/2588)                        | [답안](./src/com/boj/algorithm/ch01_io/Multiplication_2588.java) | ✅ |
+| BOJ | 2588  | [??!](https://www.acmicpc.net/problem/10926)                      | [답안](./src/com/boj/algorithm/ch01_io/Joonas_10926.java)       | ✅ |
+| BOJ | 2588  | [1998년생인 내가 태국에서는 2541년생?!](https://www.acmicpc.net/problem/18108) | [답안](./src/com/boj/algorithm/ch01_io/Bulgi_18108.java)        | ✅ |
+| BOJ | 11382 | [꼬마정민](https://www.acmicpc.net/problem/11382)                     | [답안](./src/com/boj/algorithm/ch01_io/KidJungMin_11382.java)   | ⚡ |
 
 ### ✅ if
 

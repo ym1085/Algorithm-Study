@@ -42,14 +42,15 @@
 
 ### ✅ if
 
-| 사이트 | 번호    | 문제                                              | 문제 풀이                                                      | 상태 |
-|-----|-------|-------------------------------------------------|------------------------------------------------------------|---|
-| BOJ | 1330  | [두수 비교하기](https://www.acmicpc.net/problem/1330) | [답안](src/com/boj/algorithm/ch02_if/CompareNumber_1330.java) | ✅ |
-| BOJ | 9498  | [시험 성적](https://www.acmicpc.net/problem/9498)   | [답안](./src/com/boj/algorithm/ch02_if/TestScore_9498.java)  |  ✅ | 
-| BOJ | 2753  | [윤년](https://www.acmicpc.net/problem/2753)      | [답안](./src/com/boj/algorithm/ch02_if/LeapYear_2753.java)   |  ✅ |
+| 사이트 | 번호   | 문제                                             | 문제 풀이                                                      | 상태 |
+|-----|------|------------------------------------------------|------------------------------------------------------------|---|
+| BOJ | 1330 | [두수 비교하기](https://www.acmicpc.net/problem/1330) | [답안](src/com/boj/algorithm/ch02_if/CompareNumber_1330.java) | ✅ |
+| BOJ | 9498 | [시험 성적](https://www.acmicpc.net/problem/9498)  | [답안](./src/com/boj/algorithm/ch02_if/TestScore_9498.java)  |  ✅ | 
+| BOJ | 2753 | [윤년](https://www.acmicpc.net/problem/2753)     | [답안](./src/com/boj/algorithm/ch02_if/LeapYear_2753.java)   |  ✅ |
 | BOJ | 14681 | [사분면구하기](https://www.acmicpc.net/problem/14681) | [답안](./src/com/boj/algorithm/ch02_if/Quadrant_14681.java)  |  ✅ |
-| BOJ | 2884  | [알람 시계](https://www.acmicpc.net/problem/2884)   | [답안](./src/com/boj/algorithm/ch02_if/AlarmClock_2884.java) |  ⚡ |
-| BOJ | 2525  | [오븐 시계](https://www.acmicpc.net/problem/2525)   | [답안](./src/com/boj/algorithm/ch02_if/OvenClock_2525.java)  |  ✅ |
+| BOJ | 2884 | [알람 시계](https://www.acmicpc.net/problem/2884)  | [답안](./src/com/boj/algorithm/ch02_if/AlarmClock_2884.java) |  ⚡ |
+| BOJ | 2525 | [오븐 시계](https://www.acmicpc.net/problem/2525)  | [답안](./src/com/boj/algorithm/ch02_if/OvenClock_2525.java)  |  ⚡ |
+| BOJ | 2480 | [주사위 세개](https://www.acmicpc.net/problem/2480) | [답안](./src/com/boj/algorithm/ch02_if/Dice_2480.java)       |  ⚡ |
 
 ### ✅ for
 

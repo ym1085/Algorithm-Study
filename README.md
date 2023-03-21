@@ -54,20 +54,21 @@
 
 ### ✅ for
 
-| 사이트 | 번호    | 문제                                                | 문제 풀이                                                             | 상태 |
-|-----|-------|---------------------------------------------------|-------------------------------------------------------------------|---|
-| BOJ | 2739  | [구구단](https://www.acmicpc.net/problem/2739)       | [답안](src/com/boj/algorithm/ch03_for/MultiplicationTable_2739.java) | ✅ |
-| BOJ | 10950 | [A + B - 3](https://www.acmicpc.net/problem/10950) | [답안](src/com/boj/algorithm/ch03_for/TestCase_10950.java)          | ✅ |
-| BOJ | 8393  | [합](https://www.acmicpc.net/problem/8393)         | [답안](src/com/boj/algorithm/ch03_for/Sum_8393.java)                | ✅ |
-| BOJ | 15552 | [빠른 A + B](https://www.acmicpc.net/problem/15552) | [답안](src/com/boj/algorithm/ch03_for/QuickSum_15552.java)          | ✅ |
-| BOJ | 2741  | [N 찍기](https://www.acmicpc.net/problem/2741)      | [답안](src/com/boj/algorithm/ch03_for/PrintN_2741.java)             | ✅ |
-| BOJ | 2742  | [기찍 N](https://www.acmicpc.net/problem/2742)      | [답안](src/com/boj/algorithm/ch03_for/PrintReverseN_2742.java)      | ✅ |
-| BOJ | 11021 | [A + B - 7](https://www.acmicpc.net/problem/11021) | [답안](src/com/boj/algorithm/ch03_for/PlusTestCase_11021.java)      | ✅ |
-| BOJ | 11022 | [A + B - 8](https://www.acmicpc.net/problem/11022) | [답안](src/com/boj/algorithm/ch03_for/PlusTestCasePretty_11022.java) | ✅ |
-| BOJ | 2438  | [별 찍기 - 1](https://www.acmicpc.net/problem/2438)  | [답안](src/com/boj/algorithm/ch03_for/PrintStar_2438.java)          | ✅ |
-| BOJ | 2439  | [별 찍기 - 2](https://www.acmicpc.net/problem/2439)  | [답안](src/com/boj/algorithm/ch03_for/PrintReverseStar_2439.java)   | ✅  |
-| BOJ | 10871 | [X보다 작은 수](https://www.acmicpc.net/problem/10871) | [답안](src/com/boj/algorithm/ch03_for/LessThanA_10871.java)         | ✅ |
-| BOJ | 25304 | [영수증](https://www.acmicpc.net/problem/25304) | [답안](src/com/boj/algorithm/ch03_for/Receipt_25304.java)           | ✅ |
+| 사이트 | 번호    | 문제                                                    | 문제 풀이                                                             | 상태 |
+|-----|-------|-------------------------------------------------------|-------------------------------------------------------------------|---|
+| BOJ | 2739  | [구구단](https://www.acmicpc.net/problem/2739)           | [답안](src/com/boj/algorithm/ch03_for/MultiplicationTable_2739.java) | ✅ |
+| BOJ | 10950 | [A + B - 3](https://www.acmicpc.net/problem/10950)    | [답안](src/com/boj/algorithm/ch03_for/TestCase_10950.java)          | ✅ |
+| BOJ | 8393  | [합](https://www.acmicpc.net/problem/8393)             | [답안](src/com/boj/algorithm/ch03_for/Sum_8393.java)                | ✅ |
+| BOJ | 15552 | [빠른 A + B](https://www.acmicpc.net/problem/15552)     | [답안](src/com/boj/algorithm/ch03_for/QuickSum_15552.java)          | ✅ |
+| BOJ | 2741  | [N 찍기](https://www.acmicpc.net/problem/2741)          | [답안](src/com/boj/algorithm/ch03_for/PrintN_2741.java)             | ✅ |
+| BOJ | 2742  | [기찍 N](https://www.acmicpc.net/problem/2742)          | [답안](src/com/boj/algorithm/ch03_for/PrintReverseN_2742.java)      | ✅ |
+| BOJ | 11021 | [A + B - 7](https://www.acmicpc.net/problem/11021)    | [답안](src/com/boj/algorithm/ch03_for/PlusTestCase_11021.java)      | ✅ |
+| BOJ | 11022 | [A + B - 8](https://www.acmicpc.net/problem/11022)    | [답안](src/com/boj/algorithm/ch03_for/PlusTestCasePretty_11022.java) | ✅ |
+| BOJ | 2438  | [별 찍기 - 1](https://www.acmicpc.net/problem/2438)      | [답안](src/com/boj/algorithm/ch03_for/PrintStar_2438.java)          | ✅ |
+| BOJ | 2439  | [별 찍기 - 2](https://www.acmicpc.net/problem/2439)      | [답안](src/com/boj/algorithm/ch03_for/PrintReverseStar_2439.java)   | ✅  |
+| BOJ | 10871 | [X보다 작은 수](https://www.acmicpc.net/problem/10871)     | [답안](src/com/boj/algorithm/ch03_for/LessThanA_10871.java)         | ✅ |
+| BOJ | 25304 | [영수증](https://www.acmicpc.net/problem/25304)          | [답안](src/com/boj/algorithm/ch03_for/Receipt_25304.java)           | ✅ |
+| BOJ | 25314 | [코딩은 체육과목 입니다](https://www.acmicpc.net/problem/25314) | [답안](src/com/boj/algorithm/ch03_for/Nbyte_25314.java)             | 🔥 |
 
 ### ✅ While
 

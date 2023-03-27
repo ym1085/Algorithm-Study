@@ -87,3 +87,4 @@
 | BOJ | 2562  | [최대값](https://www.acmicpc.net/problem/2562)    | [답안](src/com/boj/algorithm/ch05_array/Max_2562.java)           | ✅ |
 | BOJ | 2577  | [숫자의 개수](https://www.acmicpc.net/problem/2577) | [답안](src/com/boj/algorithm/ch05_array/CountNum_2577.java)      | ✅ |
 | BOJ | 10807 | [개수 세기](https://www.acmicpc.net/problem/10807) | [답안](src/com/boj/algorithm/ch05_array/CountNumArr_10807.java)  | ✅ |
+| BOJ | 10810 | [공 넣기](https://www.acmicpc.net/problem/10810)  | [답안](src/com/boj/algorithm/ch05_array/EnterBall_10810.java)    | 🔥 |

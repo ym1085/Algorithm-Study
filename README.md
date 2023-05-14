@@ -15,7 +15,7 @@
 1. 주에 한번 풀이가 힘들었던 문제에 대해 복기하는 시간을 갖는다.
 2. 다른 사람들의 풀이 방식을 찾아보고 적용 해본다.
 
-## 📄 단계별로 풀어보기
+## 📄 Backjoon - 단계별로 풀어보기
 
 > ✅ : **문제 풀이 완료.**  
 > ⚡ : **문제 풀이는 완료 되었으나, 재검토 필요.**  
@@ -89,3 +89,19 @@
 | BOJ | 10807 | [개수 세기](https://www.acmicpc.net/problem/10807) | [답안](src/com/boj/algorithm/ch05_array/CountNumArr_10807.java)  | ✅ |
 | BOJ | 10810 | [공 넣기](https://www.acmicpc.net/problem/10810)  | [답안](src/com/boj/algorithm/ch05_array/EnterBall_10810.java)    | 🔥 |
 | BOJ | 10813 | [공 바꾸기](https://www.acmicpc.net/problem/10813) | [답안](src/com/boj/algorithm/ch05_array/ChangeBall_10813.java)   | 🔥 |
+
+## 📄 Programmer - 0단계
+
+| 사이트          | 번호     | 문제                                                                                                  | 문제 풀이                                                     | 상태 |
+|--------------|--------|-----------------------------------------------------------------------------------------------------|-----------------------------------------------------------|---|
+| Programmers  | 181949 | [대소문자 변경](https://school.programmers.co.kr/learn/courses/30/lessons/181949)                         | [답안](src/com/programmers/algorithm/lv00/_181949.java)     | ✅ |
+| Programmers  | 181948   | [특수문자 출력](https://school.programmers.co.kr/learn/courses/30/lessons/181948)                         | [답안](src/com/programmers/algorithm/lv00/_181948.java) |  ✅ | 
+| Programmers  | 181947   | [덧셈식 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181947)                        | [답안](src/com/programmers/algorithm/lv00/_181947.java)  |  ✅ |
+| Programmers  | 181946  | [문자열 붙여서 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181946)                    | [답안](src/com/programmers/algorithm/lv00/_181946.java) |  ✅ |
+| Programmers  | 181945   | [문자열 돌리기](https://school.programmers.co.kr/learn/courses/30/lessons/181945)                         | [답안](src/com/programmers/algorithm/lv00/_181945.java) | ✅ |
+| Programmers  | 181944   | [홀짝 구분하기](https://school.programmers.co.kr/learn/courses/30/lessons/181944)                         | [답안](src/com/programmers/algorithm/lv00/_181945.java) | ✅ |
+| Programmers  | 181943   | [문자열 겁쳐쓰기](https://school.programmers.co.kr/learn/courses/30/lessons/181943)                        | [답안](src/com/programmers/algorithm/lv00/_181943.java)      | ✅ |
+| Programmers  | 181942   | [문자열 섞기](https://school.programmers.co.kr/learn/courses/30/lessons/181942?language=java)            | [답안](src/com/programmers/algorithm/lv00/_181942.java)      | ✅ |
+| Programmers  | 181941   | [문자 리스트를 문자열로 변환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181941?language=java) | [답안](src/com/programmers/algorithm/lv00/_181941.java)      | ✅ |
+| Programmers  | 181940   | [문자열 곱하기](https://school.programmers.co.kr/learn/courses/30/lessons/181940)                         | [답안](src/com/programmers/algorithm/lv00/_181940.java)      | ✅ |
+| Programmers  | 181939   | [더 크게 합치기](https://school.programmers.co.kr/learn/courses/30/lessons/181939)                        | [답안](src/com/programmers/algorithm/lv00/_181939.java)      | ✅ |

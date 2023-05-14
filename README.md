@@ -1,4 +1,4 @@
-# 🔥 BOJ-Levelup-Algorithm 🔥
+# 🔥 Levelup-Algorithm 🔥
 
 ## 📚 스터디 방법 📚
 

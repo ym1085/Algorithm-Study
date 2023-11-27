@@ -93,7 +93,7 @@
 ## 📄 Programmer - 0단계
 
 | 사이트          | 번호     | 문제                                                                                                  | 문제 풀이                                                 | 상태 |
-|--------------|--------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------|---|
+|--------------|--------|-----------------------------------------------------------------------------------------------------|-------------------------------------------------------|--|
 | Programmers  | 181949 | [대소문자 변경](https://school.programmers.co.kr/learn/courses/30/lessons/181949)                         | [답안](src/com/programmers/algorithm/lv00/_181949.java) | ✅ |
 | Programmers  | 181948 | [특수문자 출력](https://school.programmers.co.kr/learn/courses/30/lessons/181948)                         | [답안](src/com/programmers/algorithm/lv00/_181948.java) |  ✅ | 
 | Programmers  | 181947 | [덧셈식 출력하기](https://school.programmers.co.kr/learn/courses/30/lessons/181947)                        | [답안](src/com/programmers/algorithm/lv00/_181947.java) |  ✅ |
@@ -113,3 +113,4 @@
 | Programmers  | 181933 | [flag에 따라 다른 값 반환하기](https://school.programmers.co.kr/learn/courses/30/lessons/181933)              | [답안](src/com/programmers/algorithm/lv00/_181933.java) | ✅ |
 | Programmers  | 181932 | [코드 처리하기](https://school.programmers.co.kr/learn/courses/30/lessons/181932)                         | [답안](src/com/programmers/algorithm/lv00/_181932.java) | ✅ |
 | Programmers  | 181931 | [등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931)                | [답안](src/com/programmers/algorithm/lv00/_181931.java) | ✅ |
+| Programmers  | 181930 | [주사위 게임 2](https://school.programmers.co.kr/learn/courses/30/lessons/181930)                        | [답안](src/com/programmers/algorithm/lv00/_181930.java) | 🔥 |

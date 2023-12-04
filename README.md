@@ -115,4 +115,4 @@
 | Programmers  | 181931 | [등차수열의 특정한 항만 더하기](https://school.programmers.co.kr/learn/courses/30/lessons/181931)               | [답안](src/com/programmers/algorithm/lv00/_181931.java) | ✅ |
 | Programmers  | 181930 | [주사위 게임 2](https://school.programmers.co.kr/learn/courses/30/lessons/181930)                       | [답안](src/com/programmers/algorithm/lv00/_181930.java) | 🔥 |
 | Programmers  | 181929 | [원소들의 곱과 합](https://school.programmers.co.kr/learn/courses/30/lessons/181929)                      | [답안](src/com/programmers/algorithm/lv00/_181929.java) | ⚡ |
-| Programmers  | 181928 | [import java.util.Arrays;](https://school.programmers.co.kr/learn/courses/30/lessons/181928)       | [답안](src/com/programmers/algorithm/lv00/_181928.java) | ✅ |
+| Programmers  | 181928 | [이어붙힌 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928)                         | [답안](src/com/programmers/algorithm/lv00/_181928.java) | ✅ |

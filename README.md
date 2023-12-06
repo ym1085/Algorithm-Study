@@ -117,3 +117,5 @@
 | Programmers  | 181929 | [원소들의 곱과 합](https://school.programmers.co.kr/learn/courses/30/lessons/181929)                       | [답안](src/com/programmers/algorithm/lv00/_181929.java) | ⚡ |
 | Programmers  | 181928 | [이어붙힌 수](https://school.programmers.co.kr/learn/courses/30/lessons/181928)                          | [답안](src/com/programmers/algorithm/lv00/_181928.java) | ✅ |
 | Programmers  | 181927 | [마지막 두 원소](https://school.programmers.co.kr/learn/courses/30/lessons/181927)                        | [답안](src/com/programmers/algorithm/lv00/_181927.java) | 🔥 |
+| Programmers  | 181926 | [수 조작하기 1](https://school.programmers.co.kr/learn/courses/30/lessons/181926)                        | [답안](src/com/programmers/algorithm/lv00/_181926.java) | ✅ |
+| Programmers  | 181925 | [수 조작하기 2](https://school.programmers.co.kr/learn/courses/30/lessons/181925)                        | [답안](src/com/programmers/algorithm/lv00/_181925.java) | 🔥 |

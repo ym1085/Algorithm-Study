@@ -14,7 +14,6 @@ class Solution {
         // 결과를 담을 공간을 지정
         // 10 -> 5 ==> 5개의 공간
         int[] answer = new int[num_list.length - 5];
-        
         // 루프 수행
         int idx = 0;
         for (int i = 5; i < num_list.length; i++){
